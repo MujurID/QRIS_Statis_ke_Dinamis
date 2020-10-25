@@ -1,4 +1,10 @@
 <?php
+/**
+Febrian Ardi Pangestu
+https://mujur.id
+https://www.facebook.com/MujurdotID
+https://instagram.com/idradiation
+**/
 echo "RAW QRIS= \n";
 $qris_ori = trim(fgets(STDIN));
 
